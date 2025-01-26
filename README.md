@@ -30,6 +30,8 @@ alt="Coding Gif" width="300" height="250" />
 
 ---
 ### 🌐  Connect with Me  
+
+
 <p align="left">
   <a href="https://www.instagram.com/mr_harsha__2004/" target="_blank">
    <i class="fi fi-brands-instagram"></i>
