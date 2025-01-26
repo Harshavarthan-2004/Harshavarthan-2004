@@ -33,8 +33,12 @@ alt="Coding Gif" width="300" height="250" />
 
 
 <p align="left">
+
+ <a href="https://instagram.com/codebyabi" target="_blank">
   
-   <i class="fi fi-brands-instagram"></i>
+   <img
+ src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&lo
+ goColor=white" alt="Instagram" />
     
   </a>
   
