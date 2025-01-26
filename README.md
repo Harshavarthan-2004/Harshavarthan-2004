@@ -32,7 +32,7 @@ alt="Coding Gif" width="300" height="250" />
 ### 🌐  Connect with Me  
 
 
-<p align="left">
+<p align="right">
 
  <a href="https://instagram.com/codebyabi" target="_blank">
   
