@@ -17,7 +17,7 @@ passionate about Fullstack Developer 🚀..
 src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif"
 alt="Coding Gif" width="300" height="250" /> 
 
----
+
 
  👨‍💻 About Me 
  
