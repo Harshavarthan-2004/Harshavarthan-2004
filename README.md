@@ -19,7 +19,7 @@ alt="Coding Gif" width="300" height="250" />
 
 
 
- 👨‍💻 About Me 
+ 👨‍💻** About Me **
  
 . 🌱 *Currently Learning*: java and React.js 
 
@@ -29,7 +29,7 @@ alt="Coding Gif" width="300" height="250" />
 
 
 ---
-🌐 ? Connect with Me  
+🌐 ** Connect with Me  **
 <p align="left">
   <a href="https://instagram.com/codebyabi" target="_blank">
     <img
