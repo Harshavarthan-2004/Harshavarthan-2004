@@ -66,7 +66,8 @@ alt="Coding Gif" width="300" height="250" />
   <img height="40" src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub"
  title="GitHub" />
  </p>--
-### ?? Tools I Use  - 
+ 
+ ⚙️ Tools I Use  - 
 **Editor:** Visual Studio Code  - 
 **Libraries & Frameworks:** Material UI, Ant Design, Tailwind, Prisma, npm  - 
 **Workspace Setup:**  
@@ -74,6 +75,7 @@ alt="Coding Gif" width="300" height="250" />
   - Processor: **I7-13 gen**  
   - Graphics: **Integrated Radeon Graphics**  
   - RAM: **8GB**  --
+  - 
 ### ? GitHub Stats  
 <p align="center">
   <img
