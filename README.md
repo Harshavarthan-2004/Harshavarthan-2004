@@ -47,7 +47,7 @@ alt="Coding Gif" width="300" height="250" />
   </a>
  </p>--
 
-### ? Skills  
+### 🚀 Skills  
 #### **Languages & Frameworks**  
 <p align="left">
   <img height="40" src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML"
@@ -62,16 +62,13 @@ alt="Coding Gif" width="300" height="250" />
  CSS" title="Tailwind CSS" />
   <img height="40" src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"
  title="Node.js" />
-  <img height="40" src="https://img.icons8.com/ios/50/express-js.png" alt="Express.js"
- title="Express.js" />
-  <img height="40" src="https://img.icons8.com/color/48/nextjs.png" alt="Next.js"
- title="Next.js" />
+  
   <img height="40" src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub"
  title="GitHub" />
  </p>--
 ### ?? Tools I Use  - **Editor:** Visual Studio Code  - **Libraries & Frameworks:** Material UI, Ant Design, Tailwind, Prisma, npm  - **Workspace Setup:**  
-  - Laptop: **Lenovo IdeaPad Slim 3**  
-  - Processor: **AMD Ryzen 5 4600U**  
+  - Laptop: **Hp-laptop**  
+  - Processor: **I7-13 gen**  
   - Graphics: **Integrated Radeon Graphics**  
   - RAM: **8GB**  --
 ### ? GitHub Stats  
@@ -83,11 +80,6 @@ alt="Coding Gif" width="300" height="250" />
  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abi-de-jo&layout=com
  pact&theme=radical" alt="Top Languages" />
 </p>--
-### ? Activity Graph  
-[![Abisheik's GitHub Activity
- Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abi-de-jo&bg_color
- =0d1117&color=79fe96&line=7dd3fc&point=f5a623&area=true&hide_border=true)](https://githu
- b.com/ashutosh00710/github-readme-activity-graph)--
-? *"Striving to make the web a better place, one project at a time!"
+💡 *"Striving to make the web a better place, one project at a time!"
 
 
