@@ -77,7 +77,7 @@ alt="Coding Gif" width="300" height="250" />
   - Processor: **I7-13 gen**  
   - Graphics: **Integrated Radeon Graphics**  
   - RAM: 8GB  
-    --
+    
 
 💡 *"Striving to make the web a better place, one project at a time!"
 
