@@ -1,7 +1,7 @@
  ## Hi there 🖐️, I'm **Harshavarthan R E**  
 
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&width=435&lines=Software+Developer;Web+Developer;Fullstack+Developer;Sql+Developer)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F70729&width=435&lines=Hi+%F0%9F%96%90%EF%B8%8F%2C+I'm+Harshavarthan+R+E;Aspiring++Frontend+Developer)](https://git.io/typing-svg) 
+ 
   ---
 
 🎓BE.in Aritificial Intelligence and Data science (class of 2025)
