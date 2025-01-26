@@ -1,4 +1,4 @@
-## Hi 🖐️, I'm *Harshavarthan R E* 
+## Hi 🖐️, I'm *Harshavarthan R E*    https://readme-typing-svg.demolab.com
 
 🎓BE.in Aritificial Intelligence and Data science (class of 2025)
 
