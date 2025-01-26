@@ -33,17 +33,17 @@ alt="Coding Gif" width="300" height="250" />
 <p align="left">
   <a href="https://www.instagram.com/mr_harsha__2004/" target="_blank">
     <img
- src="<i class="fa-brands fa-instagram"></i>" alt="Instagram" />
+ src="" alt="Instagram" />
   </a>
-  <a href="https://www.youtube.com/@codebyabi" target="_blank">
-    <img
- src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoCo
- lor=white" alt="YouTube" />
+  
   </a>
-  <a href="https://www.linkedin.com/in/abisheik-r-ba932b274/" target="_blank">
+  <a href="https://www.linkedin.com/in/harsha-varthan-707413314/" target="_blank">
     <img
  src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoCo
  lor=white" alt="LinkedIn" />
+  </a>
+  <a href="">
+   
   </a>
  </p>--
 
