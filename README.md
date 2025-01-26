@@ -19,7 +19,7 @@ alt="Coding Gif" width="300" height="250" />
 
 
 
- 👨‍💻 ## About Me **
+ ### 👨‍💻  About Me 
  
 . 🌱 *Currently Learning*: java and React.js 
 
@@ -29,9 +29,9 @@ alt="Coding Gif" width="300" height="250" />
 
 
 ---
-🌐  Connect with Me  
+### 🌐  Connect with Me  
 <p align="left">
-  <a href="https://instagram.com/codebyabi" target="_blank">
+  <a href="https://www.instagram.com/mr_harsha__2004/" target="_blank">
     <img
  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&lo
  goColor=white" alt="Instagram" />
