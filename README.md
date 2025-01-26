@@ -29,25 +29,25 @@ alt="Coding Gif" width="300" height="250" />
 
 
 ---
-🌐 Connect with Me 
+🌐 ? Connect with Me  
 <p align="left">
- <a href="https://instagram.com/codebyabi" target="_blank">
- <img
-src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&lo
-goColor=white" alt="Instagram" />
- </a>
- <a href="https://www.youtube.com/@codebyabi" target="_blank">
- <img
-src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoCo
-lor=white" alt="YouTube" />
- </a>
-
+  <a href="https://instagram.com/codebyabi" target="_blank">
+    <img
+ src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&lo
+ goColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.youtube.com/@codebyabi" target="_blank">
+    <img
+ src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoCo
+ lor=white" alt="YouTube" />
+  </a>
   <a href="https://www.linkedin.com/in/abisheik-r-ba932b274/" target="_blank">
     <img
  src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoCo
  lor=white" alt="LinkedIn" />
   </a>
  </p>--
+
 ### ? Skills  
 #### **Languages & Frameworks**  
 <p align="left">
