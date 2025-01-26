@@ -33,8 +33,7 @@ alt="Coding Gif" width="300" height="250" />
 <p align="left">
   <a href="https://www.instagram.com/mr_harsha__2004/" target="_blank">
     <img
- src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&lo
- goColor=white" alt="Instagram" />
+ src="<i class="fa-brands fa-instagram"></i>" alt="Instagram" />
   </a>
   <a href="https://www.youtube.com/@codebyabi" target="_blank">
     <img
