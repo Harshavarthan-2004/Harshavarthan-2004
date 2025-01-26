@@ -27,7 +27,7 @@ alt="Coding Gif" width="300" height="250" />
 - ? *Ask Me About*: Web Development, Full-Stack Development, and Dev Tools 
 - ? *Fun Fact*: I love experimenting with frameworks and designing workflows 
 ---
-### ? Connect with Me 
+🔗 Connect with Me 
 <p align="left">
  <a href="https://instagram.com/codebyabi" target="_blank">
  <img
