@@ -66,8 +66,10 @@ alt="Coding Gif" width="300" height="250" />
   <img height="40" src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub"
  title="GitHub" />
  </p>--
+
+ ---
  
- ⚙️ Tools I Use  - 
+ ⚙️ Tools I Use   
 **Editor:** Visual Studio Code  - 
 **Libraries & Frameworks:** Material UI, Ant Design, Tailwind, Prisma, npm  - 
 **Workspace Setup:**  
@@ -75,16 +77,8 @@ alt="Coding Gif" width="300" height="250" />
   - Processor: **I7-13 gen**  
   - Graphics: **Integrated Radeon Graphics**  
   - RAM: **8GB**  --
-  - 
-### ? GitHub Stats  
-<p align="center">
-  <img
- src="https://github-readme-stats.vercel.app/api?username=Abi-de-jo&show_icons=true&theme
- =radical" alt="Abisheik's GitHub stats" />
-  <img
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abi-de-jo&layout=com
- pact&theme=radical" alt="Top Languages" />
-</p>--
+    --
+
 💡 *"Striving to make the web a better place, one project at a time!"
 
 
