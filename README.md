@@ -45,7 +45,9 @@ alt="Coding Gif" width="300" height="250" />
   <a href="">
    
   </a>
- </p>--
+ </p>
+
+ ---
 
 ### 🚀 Skills  
 #### **Languages & Frameworks**  
@@ -65,7 +67,7 @@ alt="Coding Gif" width="300" height="250" />
   
   <img height="40" src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub"
  title="GitHub" />
- </p>--
+ </p>
 
  ---
 
