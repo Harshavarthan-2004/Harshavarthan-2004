@@ -18,7 +18,7 @@ src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gi
 alt="Coding Gif" width="300" height="250" /> 
 🚀 Passionate about *Full-Stack Development* 
 ---
-### 👨‍💻 About Me 
+ 👨‍💻 About Me 
 . 🌱 *Currently Learning*: java and React.js 
 . 👥 *Collaboration Goals*: Building innovative and impactful projects  
 . 😊 *Hobby*: playing footbal ⚽..
