@@ -67,16 +67,20 @@ alt="Coding Gif" width="300" height="250" />
  title="GitHub" />
  </p>--
 
+ ---
+
  
  
- ⚙️ Tools I Use   
+ ### ⚙️ Tools I Use   
 **Editor:** Visual Studio Code  - 
 **Libraries & Frameworks:** Material UI, Ant Design, Tailwind, Prisma, npm  - 
 **Workspace Setup:**  
   - Laptop: **Hp-laptop**  
   - Processor: **I7-13 gen**  
   - Graphics: **Integrated Radeon Graphics**  
-  - RAM: 8GB  
+  - RAM: 8GB
+
+    --- 
     
 
 💡 *"Striving to make the web a better place, one project at a time!"
