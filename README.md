@@ -29,20 +29,15 @@ alt="Coding Gif" width="300" height="250" />
 
 
 ---
-### 🌐  Connect with Me  
-
-
-
+### 🌐Connect with Me  
 <p align="left">
-
  <a href="https://www.instagram.com/mr_harsha__2004/" target="_blank">
-  
-                                                                                                                                                          <img
+   <img
  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&lo
  goColor=white" alt="Instagram" /> 
   </a>
   <a href="https://www.linkedin.com/in/harsha-varthan-707413314/" target="_blank">
-                                                                                                                                                          <img
+     <img
  src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoCo
  lor=white" alt="LinkedIn" />
   </a>
