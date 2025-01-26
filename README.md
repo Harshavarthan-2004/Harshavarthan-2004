@@ -53,6 +53,8 @@ alt="Coding Gif" width="300" height="250" />
   </a>
  </p>
 
+ <i class="fi fi-brands-instagram"></i>
+
  ---
 
 ### 🚀 Skills  
