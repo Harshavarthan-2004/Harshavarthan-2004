@@ -35,7 +35,7 @@ alt="Coding Gif" width="300" height="250" />
 
 <p align="left">
 
- <a href="https://instagram.com/codebyabi" target="_blank">
+ <a href="https://www.instagram.com/mr_harsha__2004/" target="_blank">
   
    <img
  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&lo
@@ -43,7 +43,7 @@ alt="Coding Gif" width="300" height="250" />
     
   </a>
   
-  </a>
+  
   <a href="https://www.linkedin.com/in/harsha-varthan-707413314/" target="_blank">
     <img
  src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoCo
@@ -58,7 +58,7 @@ alt="Coding Gif" width="300" height="250" />
 
 
 
- <i class="fi fi-brands-instagram">insta</i>
+
 
  ---
 
