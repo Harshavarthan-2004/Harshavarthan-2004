@@ -1,4 +1,14 @@
-## Hi there ?, I'm *Harshavarthan R E* 
+## Hi 🖐️, I'm *Harshavarthan R E* 
+
+🎓BE.in Aritificial Intelligence and Data science (class of 2025)
+
+📍 [ Aarupadi veedu institude of Technology]
+
+Hello there! i'm an aspiring Developer 
+
+
+
+
 ![Typing
 Animation](https://readme-typing-svg.demolab.com/?lines=Web+Developer;Content+Creator;We
 b+Designer;Software+Developer&font=Fira%20Code&center=true&width=440&height=45&color=00b
