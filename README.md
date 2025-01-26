@@ -31,6 +31,10 @@ alt="Coding Gif" width="300" height="250" />
 ---
 ### 🌐  Connect with Me  
 
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+<i class="fa-brands fa-instagram"></i>
+
 
 <p align="right">
 
@@ -49,7 +53,7 @@ alt="Coding Gif" width="300" height="250" />
  lor=white" alt="LinkedIn" />
   </a>
   <a href="">
-  <img src="![image](https://github.com/user-attachments/assets/0305f50d-2d66-4258-a100-3a0f8c2d75b2)"/>
+  
 
    
   </a>
